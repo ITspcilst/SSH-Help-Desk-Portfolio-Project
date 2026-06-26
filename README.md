@@ -112,14 +112,24 @@ This project reflects real-world **IT Help Desk responsibilities**, including:
 ---
 
 ## 📎 Screenshots
-Screenshots included show:
-- [**Successful SSH connections**](Screenshots/01-ssh-login-admin.png)
-- [**Failed login attempts**](Screenshots/02-ssh-failed-login-locked-user.png)
-- [**Service downtime and recovery**](Screenshots/03-ssh-service-down.png)
-- [**System checks and logs**](Screenshots/05-system-health-checks.png)
-- [**Authentication logs**](Screenshots/06-auth-log-ssh.png)
-- [**Incident ticket documentation**](Screenshots/07-helpdesk-ticket.png)
 
+### SSH Connection
+![**Successful SSH connections**](Screenshots/01-ssh-login-admin.png)
+
+### Failed Login 
+![**Failed login attempts**](Screenshots/02-ssh-failed-login-locked-user.png)
+
+### Service downtime and recovery
+![**Service downtime and recovery**](Screenshots/03-ssh-service-down.png)
+
+### System Checks and Logs 
+![**System checks and logs**](Screenshots/05-system-health-checks.png)
+
+### Authentication Logs
+![**Authentication logs**](Screenshots/06-auth-log-ssh.png)
+
+### Ticket Documentation
+![**Incident ticket documentation**](Screenshots/07-helpdesk-ticket.png)
 
 ---
 
